@@ -5,3 +5,9 @@ nota = float(input("Ingrese nota final: "))
 
 print("Estudiante:", nombre)
 print("Nota final:", nota)
+
+
+if nota >= 4.0 or nota >= 4:
+    print('Aprobado')
+else:
+    print('Reprobado')
